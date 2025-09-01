@@ -1,0 +1,17 @@
+aiohttp>=3.8.5
+ipywidgets>=8.0.1 # previous: 7.5.0
+matplotlib>=3.7.2 
+pandas_market_calendars>=4.1.4
+pandas>=2.0.3
+plotly>=5.15
+pyarrow>=11.0.0
+pyfeng>=0.2.4
+pytest>=7.2.1
+scikit-learn>=0.24.1
+statsmodels>=0.14
+pmdarima>=2.0.3
+tqdm>=4.65
+arch>=6.2.0
+beautifulData
+
+py_vollib_vectorized>=0.1.1
